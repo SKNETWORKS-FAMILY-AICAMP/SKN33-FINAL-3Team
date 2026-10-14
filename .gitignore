@@ -10,3 +10,7 @@ chroma_data/
 **/shortnews_outputs/
 # 관세청 수집 실행 결과
 **/customs_outputs/
+# 적재 검증 중간 파일과 실행 결과 (원본 데이터 포함)
+tmp/
+**/customs_load_outputs/
+.venv/

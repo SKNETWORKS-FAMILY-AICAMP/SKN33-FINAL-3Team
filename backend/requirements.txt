@@ -1,0 +1,5 @@
+# 수집 / 적재 스크립트 실행 의존성
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+PyMySQL[rsa]>=1.1,<2
+openpyxl>=3.1,<4
